@@ -1,0 +1,28 @@
+body {
+  color: rgb(59, 57, 57);
+  background-color: rgb(247, 192, 172);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6em;
+}
+.black-border {
+  border: 4px solid rgb(73, 71, 71);
+}
+#green-background {
+  background-color: rgb(245, 173, 90);
+}
+h1,
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color: rgb(94, 53, 61);
+}
+.park-list {
+  list-style: none;
+  font-size: 20px;
+  color: black;
+}
+
+a:hover {
+  color: rgb(65, 1, 12);
+}
